@@ -1,0 +1,25 @@
+{
+  "name": "theme-damky",
+  "displayName": "%displayName%",
+  "description": "%description%",
+  "version": "1.0.0",
+  "publisher": "",
+  "license": "MIT",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "DAMKY",
+        "label": "%themeLabel%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/damky-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
